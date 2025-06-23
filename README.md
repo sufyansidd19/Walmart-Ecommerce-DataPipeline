@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/walmart-banner.png" alt="Walmart E-commerce Pipeline" width="700"/>
+  <img src="walmart.avif" alt="Walmart E-commerce Pipeline" width="700"/>
 </p>
+
 
 # 🛒 Walmart E-Commerce Data Pipeline
 
